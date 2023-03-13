@@ -1,0 +1,6 @@
+/* @tailwind is an example of a directive */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* postcss plugin to not see the wavy lines */
